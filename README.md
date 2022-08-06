@@ -19,8 +19,8 @@ Thanks for visiting my github profile. Have a great day ahead!~
     
  ```
     
-![live](https://i.hizliresim.com/dwkl2rk.jpg)
->The meanings of the codes are shown with a comment line.
+>The meanings of the codes are shown with a comment line.🐝
+>Feel free to use this project to make your own Portfolio. 🍯
 
 #usage
 **🐝javascript**
