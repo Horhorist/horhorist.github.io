@@ -4,10 +4,7 @@ I'm **horhorik**, An developer from somewhere in the earth. I like to code web a
 Thanks for visiting my github profile. Have a great day ahead!~
 ![horhorik](https://i.hizliresim.com/dwkl2rk.jpg)
   
-![horhorik](https://www.hareketligifler.net/data/media/562/cizgi-hareketli-resim-0323.gif)
-
 <h2 align="center"> ✨ Commands ✨</h2>
-
 
 
 ```
@@ -18,6 +15,7 @@ Thanks for visiting my github profile. Have a great day ahead!~
     clear
     
  ```
+ 
     
 >The meanings of the codes are shown with a comment line.🐝
 >Feel free to use this project to make your own Portfolio. 🍯
