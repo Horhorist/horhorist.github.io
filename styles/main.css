@@ -273,7 +273,7 @@ opacity: 0.9;
     left: 50%;
     border-radius: 10px;
     transform: translate(-50%, -50%);
-    box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.06);
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.06);
 }
 
 .wrapper header {
