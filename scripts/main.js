@@ -100,9 +100,9 @@ async function getInputValue(){
     createCode("Turkish", ":)");
     createCode("English", ":)");
     createCode("Python", "60%");
-    createCode("Html", "95");
+    createCode("Html", "95%");
     createCode("Css", "95%");
-    createCode("Javascipt","  65%")
+    createCode("Javascript","  65%")
     createCode("Php", "55%");
     createCode("Golang", "%50 [learning]");
     createCode("Flutter", "[learning]");
