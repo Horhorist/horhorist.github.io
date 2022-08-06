@@ -90,7 +90,7 @@ async function getInputValue(){
 
   else if(value === "social -a"){
     trueValue(value);
-    createText("<a href='https://github.com/horohrist' target='_blank'><i class='fab fa-github white'></i> github.com/heberleonard2</a>")
+    createText("<a href='https://github.com/horhorist' target='_blank'><i class='fab fa-github white'></i> github.com/horhorist</a>")
   }
 
   else if(value === "languages"){
