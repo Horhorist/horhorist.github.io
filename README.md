@@ -20,7 +20,7 @@ Thanks for visiting my github profile. Have a great day ahead!~
 >The meanings of the codes are shown with a comment line.🐝
 >Feel free to use this project to make your own Portfolio. 🍯
 
->usage
+## usage
 
 
 **🐝javascript**
